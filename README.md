@@ -1,3 +1,4 @@
+[![CI](https://github.com/vasilios-k/notizzettel-web-anwendung-fronted/actions/workflows/ci.yml/badge.svg)](https://github.com/vasilios-k/notizzettel-web-anwendung-fronted/actions/workflows/ci.yml)
 # notizzettel-web-anwendung-fronted
 
 ## Project setup
